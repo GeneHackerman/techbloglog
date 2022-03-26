@@ -1,3 +1,4 @@
+// allows for post creation on homepage dashboard
 async function newFormHandler(event) {
     event.preventDefault();
   
